@@ -1,0 +1,11 @@
+{
+  "name": "动漫周边商城 Demo",
+  "appid": "__UNI__ANIMESHOPDEMO",
+  "description": "跨境动漫 IP 周边电商最小可运行 Demo",
+  "versionName": "0.1.0",
+  "versionCode": "10",
+  "transformPx": false,
+  "h5": {
+    "title": "动漫周边商城 Demo"
+  }
+}
